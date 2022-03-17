@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Contact</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/rdu3grp.css">
+<link rel="stylesheet" href="https://use.typekit.net/rdu3grp.css">
+<link rel="stylesheet" href="https://use.typekit.net/rdu3grp.css">
+<!-- TemplateBeginEditable name="head" -->
+
+<style type="text/css">
+
+</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	  <ul> 
+		  <li><a href="../pages/about.html">About</a></li>
+		  <li><a href="../pages/blog.html">Blog</a></li>
+		  <li><a href="../gallery.html">Gallery</a></li>
+		  <li><a href="../pages/contact.html">Contact</a></li>
+	  </ul>
+  </nav>
+  <!--Begin Floated Elements-->
+ <aside>
+    <h3>I'm a woman, a daughter, a sister, a student, visionary, and an artist who also loves music.</h3>
+    <h3>Join me as I examine life through all of my various paths.</h3>
+    <h3>by Isabella Chalker</h3>
+ </aside>
+	
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->
+  <footer></footer>
+</div>
+</body>
+</html>
